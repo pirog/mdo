@@ -3,6 +3,7 @@
 sites/*/files/*
 files/*
 settings.php
+.htaccess
 
 # Compiled source #
 ###################

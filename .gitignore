@@ -2,6 +2,7 @@
 ##########
 sites/*/files/*
 files/*
+settings.php
 
 # Compiled source #
 ###################

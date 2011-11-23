@@ -90,7 +90,7 @@
  *   $db_url = 'mysqli://username:password@localhost/databasename';
  *   $db_url = 'pgsql://username:password@localhost/databasename';
  */
-$db_url = 'mysql://db82157_mdo:ENkzVAyz@internal-db.s82157.gridserver.com/db82157_mdo';
+$db_url = 'mysql://root@localhost/mdo_dev';
 $db_prefix = '';
 
 /**
